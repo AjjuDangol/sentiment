@@ -7,8 +7,7 @@ Data ingestion
 Sentiment scoring
 Data export
 Visualization
-Power BI dashboard
-Final insights
+
 This project fulfills the requirements of a sentiment analysis assignment, including architecture, code, data processing, and visualization.
 
 Twitter CSV Dataset 
